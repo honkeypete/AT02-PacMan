@@ -100,7 +100,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Game Manager: End Panel has not been assigned!");
+
         }
         //Set score text value
         if (scoreText != null)
